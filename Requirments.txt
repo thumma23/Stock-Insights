@@ -1,11 +1,7 @@
 numpy
 requests
-pandas
 datetime
-pandas_datareader
 pandas
 statistics
-json
-locale
-re
-time
+data
+pandas-datareader

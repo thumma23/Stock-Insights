@@ -1,5 +1,11 @@
-numpy==1.18.4
-requests==2.23
+numpy
+requests
 pandas
 datetime
 pandas_datareader
+pandas
+statistics
+json
+locale
+re
+time
